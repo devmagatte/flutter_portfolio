@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676692959713",
+    "project_id": "freelance-magatte",
+    "storage_bucket": "freelance-magatte.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676692959713:android:008715448147f29fc5b2a0",
+        "android_client_info": {
+          "package_name": "com.maglin.portfolio.portfolio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676692959713-us93stbqh6vqam1f6qa75l7p883voiv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd_aZzDpYoY5IK0otiDP679LCV28Jjhb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676692959713-us93stbqh6vqam1f6qa75l7p883voiv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

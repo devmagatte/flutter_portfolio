@@ -1,4 +1,4 @@
-package com.maglin.portfolio.portfolio
+package com.maglin.portfolio
 
 import io.flutter.embedding.android.FlutterActivity
 
